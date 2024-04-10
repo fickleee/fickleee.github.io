@@ -1,26 +1,21 @@
-title: Hanlin Cai
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+title: Zihan Xu
+# tagline: Here is personal website of Zihan Xu. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://fickleee.github.io/
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Zihan Xu
+  avatar: zihan.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  email: fickle809@gmail.com
+  cv: https://fickleee.github.io/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  github: fickleee
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # bilibili: 594030035
+  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -28,7 +23,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: 'SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs'
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -38,29 +33,25 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Teams
-    url: /teams/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: China/Chengdu
 future: true
 highlighter: rouge
 # markdown: kramdown
 # markdown: redcarpet
 # pygments: true
 
-
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
+permalink: /:categories/:title
 
 kramdown:
   auto_ids: true
@@ -76,12 +67,23 @@ kramdown:
   #   coderay_bold_every: 10
   #   coderay_css: class
 
-
 # disqus settings:
 disqus:
   shortname: lancecai
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
+include: ['.htaccess']
+exclude:
+  [
+    'lib',
+    'config.rb',
+    'Capfile',
+    'config',
+    'log',
+    'Rakefile',
+    'Rakefile.rb',
+    'tmp',
+    'less',
+    'minimal-mistakes.sublime-project',
+    'minimal-mistakes.sublime-workspace',
+  ]
 # Latest update in 2023/12/10 by Hanlin Cai.
