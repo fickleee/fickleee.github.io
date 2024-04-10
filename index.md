@@ -8,18 +8,14 @@ layout: page
 
 Here is **Zihan Xu (Fickle, 徐紫菡)**.
 
-I am a senior undergraduate majoring in data science and big Data technology at the School of Computer Science and Engineering, University of Electronic Science and Technology of China. Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+Currently, I am a senior undergraduate majoring in data science and big Data technology at [the School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). I will continue my doctoral studies in [Interactive Data Group](https://zjuidg.org/), [Zhejiang University](https://www.zju.edu.cn/) supervised by [Prof. Yingcai Wu](http://www.ycwu.org) and [Prof. Di Weng](https://dwe.ng) since 2024 fall. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - _hanlin[dot]cai[at]ieee[dot]org_
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - fickle809[at]gmail[dot]com
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2024 - Sep 2025：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** University of Electronic Science and Technology of China (BEng, CS)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **Sep 2024 - Present：**State Key Lab of CAD&CG, Zhejiang University (Incoming CS PhD, supervised by [Prof. Yingcai Wu](http://www.ycwu.org) and [Prof. Di Weng](https://dwe.ng))
+- **Sep 2020 - June 2024:** University of Electronic Science and Technology of China (BEng, data science and big Data technology)
 
 ---
 
@@ -39,12 +35,11 @@ My current research focuses on practical problems that artificial intelligence f
 
 - **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
 - **Feb 2024：**Got a MSc offer from the CS department of UCL.
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
+- **Dec 2023：**I was awarded.
+- **Sep 2023：**Happy to be awarded the FEPG Scholarship.
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
 - **Jun 2022：**Started research intern at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
