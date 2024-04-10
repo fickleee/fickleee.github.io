@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://fickleee.github.io/xuzihan.jpg" class="floatpic" width="450" height="500">
+<img src="https://fickleee.github.io/xuzihan.jpg" class="floatpic" width="400" height="420">
 
 Here is **Zihan Xu (Fickle, 徐紫菡)**.
 
