@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://fickleee.github.io/xuzihan.jpg" class="floatpic" width="360" height="480">
+<img src="https://fickleee.github.io/xuzihan.jpg" class="floatpic" width="420" height="480">
 
 Here is **Zihan Xu (Fickle, 徐紫菡)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+I am a senior undergraduate majoring in data science and big Data technology at the School of Computer Science and Engineering, University of Electronic Science and Technology of China. Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - _hanlin[dot]cai[at]ieee[dot]org_
 
@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2024 - Sep 2025：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
 - **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
+- **Sep 2020 - June 2024:** University of Electronic Science and Technology of China (BEng, CS)
 - **June 2022 - Nov 2022:** Cambridge University (Intern)
 
 ---
