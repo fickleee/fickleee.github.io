@@ -25,7 +25,7 @@ What: A visual analytics application to interactively **explore ski slopes** and
 
   - The painted panorama style distorts the underlying topography to emphasize certain memorable features
 
-    ![image-20240425154152429](skivis.assets\image-20240425154152429.png)
+    ![image-20240425154152429](skivis.assets/image-20240425154152429.png)
 
   - Metro map
 
@@ -70,7 +70,7 @@ What: A visual analytics application to interactively **explore ski slopes** and
 
 - [T3]Allow routing between two arbitrary network points Neglect user-specific preferences
   
-- Dijkstra
+  - Dijkstra
   
 - [T4]Integrate preferences into the routing algorithm
   - Compute cost for each slope according to the user preferences
