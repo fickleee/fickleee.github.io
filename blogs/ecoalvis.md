@@ -52,4 +52,9 @@ a novel interactive system visually analyze the **control strategies** of coal-f
 
 #### **Critical thinking**
 
-- Incorporate domain knowledge into the model
+- Multi-dimensional visualization
+- Link
+- Extend to other domains with strong temporal correlation
+
+
+

@@ -13,7 +13,6 @@ title: Notes-PlanningVis
 #### Introduction
 
 A visual analytics system to facilitate the efficient optimization of daily production planning and support a quick response to unanticipated incidents in manufacturing.
-
 ![image-20240504133156534](planningvis.assets/image-20240504133156534.png)
 
 <br>
@@ -28,16 +27,11 @@ A visual analytics system to facilitate the efficient optimization of daily prod
 <br>
 
 #### Highlights
-
 - Iterative visualization design
-<div class="second">
-<img src="planningvis.assets/image-20240504133329702.png">
-<img src="planningvis.assets/image-20240504134326974.png">
-</div>
-
+![image-20240504134243434](planningvis.assets/image-20240504133329702.png)
+![image-20240504134243434](planningvis.assets/image-20240504134326974.png)
 - Linked view
 ![image-20240504134243434](planningvis.assets/image-20240504134243434.png)
 
 #### Critical thinking
-
 - Burden of understanding

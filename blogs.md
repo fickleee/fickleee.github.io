@@ -16,11 +16,3 @@ title: Blogs
 
 <br>
 
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
-

@@ -41,6 +41,5 @@ Explore disease progression status in longitudinal patient cohort data and revea
 
 #### **Critical thinking**
 
-- Multi-dimensional visualization
-- Link
-- Extend to other domains with strong temporal correlation
+- Incorporate domain knowledge into the model
+
